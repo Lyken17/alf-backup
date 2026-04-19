@@ -10,9 +10,9 @@ This document is for private reference only. Its purpose is to help organize obs
 
 Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看) [Copy-4-19 Advisor Red Flags Notes](https://docs.google.com/document/d/1cI40Eiv2iRQwRqzpSOwpNH9fFyHq2cKybbktgi4Ac0Y/edit?usp=sharing)
 
-当前Tab为黑榜，红榜请去另一个Tab：
+当前Tab为黑榜，红榜请去另一个Tab：[Advisor Red Flags Notes](https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.nx4zmkxu7v5s)
 
-**US**[Advisor Red Flags Notes](https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.nx4zmkxu7v5s)
+**US**
 
 PSU prof.huijuan xu  
 [https://www.1point3acres.com/bbs/thread-1164232-1-1.html](https://www.1point3acres.com/bbs/thread-1164232-1-1.html) 
@@ -53,7 +53,7 @@ UCD Lifu Huang
 
 * 非常push，对学生相当差  
 * 完全不懂multimodal相关的东西全靠学生，代表作其实跟他都没啥关系  
-* 
+* 特别喜欢给学生画饼，动不动就说我推荐你就能去msrajiu neng qu
 
 UCSD Hao Su
 
@@ -122,7 +122,7 @@ Rutgers University, Yongfeng Zhang
 
 * 组里quit了一堆的学生（8个），这个老师特别喜欢开人，听说（不用听说）tenure之后性情大变。  
 * 拿学生一座论文AIOS实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。  
-* 组会喜欢骂人，组会一小时，骂xue s五十分钟，纯侮辱，没有一点好话.  
+* 组会喜欢骂人，组会一小时，骂学生五十分钟，纯侮辱，没有一点好话.  
 * 审稿不负责任，听说（不用听说）有学生因为他没有交meta review 文章被dr了。  
 * 春假不允许出去玩，因为学生都是employee，想出去玩的学生被打电话骂了二十分钟。  
 * 周日写周报，周一开组会，组会随机延长的周三，组会满嘴喷粪，学生讲一点技术的东西就装睡。  
@@ -234,8 +234,7 @@ OSU Yu Su
 Gatech Tuo Zhao
 
 * 喜欢骂人，走廊里都能听到  
-* Iclr当ac和学生联手黑掉mamba，学术道德极差  
-* 这是真牛逼
+* Iclr当ac和学生联手黑掉mamba，学术道德极差
 
 NEU Yun Raymond Fu
 
@@ -323,9 +322,10 @@ Cornell Prof. Mohamed Abdelfattah
 
 Upenn Prof. Jacob Gardner
 
-* 尊重学生方向，水平很高指导也很到位，赶稿之前会帮学生写代码甚至写全文，非常hands on  
-* 有学生完全不做他感兴趣的方向，但是能帮就帮  
-* 找实习找工作都全程carry，毕业之后也能经常约到老师讨论career plan
+* 水平很高指导也很到位，赶稿之前会帮学生写代码甚至写全文，非常hands on  
+* 尊重学生方向，有学生完全不做他感兴趣的方向，但是能帮就帮  
+* 找实习找工作都全程carry，毕业之后也能经常约到老师讨论career plan  
+* 很有钱，组里算力充足，B200
 
 **大家可以在这个Tab补充和推荐没有red flags的PI！**
 
