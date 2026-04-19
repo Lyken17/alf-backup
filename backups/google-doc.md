@@ -53,7 +53,8 @@ UCD Lifu Huang
 
 * 非常push，对学生相当差  
 * 完全不懂multimodal相关的东西全靠学生，代表作其实跟他都没啥关系  
-* 特别喜欢给学生画饼，动不动就说我推荐你就能去msrajiu neng qu
+* 特别喜欢给学生画饼，动不动就说我推荐你就能去msra就能去FAIR luke组，实际学术关系相当没啥影响力  
+* 和学生相处的时候，高位者的姿态非常严重
 
 UCSD Hao Su
 
@@ -62,12 +63,14 @@ UCSD Hao Su
 
 UNC Prof. Mohit Bansal
 
-* 组内PhD的建议：太Push，不能忍受的别来  
-* 最近有博后受不了quit了 → （感 觉postdoc side问题比较大，建议postdoc也上黑榜  
+* 组内的建议：太Push，不能忍受的别来  
+* 最近有博后受不了quit了 → （感觉postdoc side问题比较大，建议postdoc也上黑榜  
 * 组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来  
-* 组内PhD后面主要是posdoc在指导（有好有坏）
+* 组内PhD后面主要是posdoc+senior phd在指导（有好有坏）  
+* 组里资源倒是还行，卡数量还算多，就是没法分布训练最多单机10卡 （H100？）(Q: 什么机器能10卡？？)  
+* deadline前压力大
 
-UCSD  pengtao
+UCSD  Pengtao Xie
 
 * Push, 每天要standup meeting  
 * （有非常多“人品”黑料可以问ucsd本科生了解，小红书上评论全是写避雷的）  
@@ -95,19 +98,23 @@ UNC Huaxiu Yao
 * 著名小红书intern事件，招一大群人不给指导，蛊王  
 * 极其push, 曾经会长时间zoom和学生一起，让一堆intern在里面，方便监工  
 * 之前参会的时候，发现这老师爱嘴人，放冷枪（相由心生?)  
-* 这个人当初还发帖子炫耀自己“差点”拿了mit的教职offer，实际自己什么水平不知道？unc能给他教职offer，真不知道unc怎么想的 （这个是不是YU LI, 印象里HUAXIU YAO没发这个？）（有发过，当时是他的早期招生贴，说自己拿到了unc的教职要招生，在帖子里“惋惜”了下自己没等到mit的offer。然后我看到这个帖子后去看了下这个人的背景，大为震惊，居然都能拿到unc的教职？）（这个人早期是不是和他组里的师兄有过世纪对骂的那个？好像说相互质疑对方的offer）（是不是还和微调老师知乎对骂过）（不知道，蹲一个）（蹲一下）  
+* 这个人当初还发帖子炫耀自己“差点”拿了mit的教职offer，实际自己什么水平不知道？unc能给他教职offer，真不知道unc怎么想的 （这个是不是YU LI, 印象里HUAXIU YAO没发这个？）（有发过，当时是他的早期招生贴，说自己拿到了unc的教职要招生，在帖子里“惋惜”了下自己没等到mit的offer。然后我看到这个帖子后去看了下这个人的背景，大为震惊，居然都能拿到unc的教职？）（这个人早期是不是和他组里的师兄有过世纪对骂的那个？好像说相互质疑对方的offer）（不知道，蹲一个）（蹲一下）  
 * 赞同前楼，很sb一个老师，真的很喜欢骂人，据说和很多人都不对付 （都怎么骂人啊，好好奇）  
 * 喜欢问：给你发offer多大概率来 (这话对每个人都说，同期面几十个)  
 * 所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）  
 * 之前开发了个自动rebuttal agent，被twitter喷到删库了   
-* 组里没什么卡，资源掉配全都他一句话的事情
+* 组里没什么卡，资源掉配全都他一句话的事情  
+* 是不是还和微调老师知乎对骂过 （蹲一个细节）（同蹲）(+1) （能和调骂起来？wc）（对骂届的神来了，蹲）
 
+
+  
 UCF Sernam Lim
 
 * [https://www.reddit.com/r/gradadmissions/comments/18qulho/apply\_to\_ms\_in\_computer\_vision\_ucf/](https://www.reddit.com/r/gradadmissions/comments/18qulho/apply_to_ms_in_computer_vision_ucf/)  
 * [https://www.ratemyprofessors.com/professor/2926137](https://www.ratemyprofessors.com/professor/2926137)  
 * 控制欲强、水平差；喜欢背地和组里人吐槽别的学生
 
+   
 UCSD  Ochoa, Benjamin Lawrence
 
 * Ucsd 唯二的正统cse cv课教授（最傻逼的一个），其傻逼行为包括但不限于：  
@@ -121,13 +128,13 @@ UCSD  Ochoa, Benjamin Lawrence
 Rutgers University, Yongfeng Zhang
 
 * 组里quit了一堆的学生（8个），这个老师特别喜欢开人，听说（不用听说）tenure之后性情大变。  
-* 拿学生一座论文AIOS实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。  
+* 拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）  
 * 组会喜欢骂人，组会一小时，骂学生五十分钟，纯侮辱，没有一点好话.  
 * 审稿不负责任，听说（不用听说）有学生因为他没有交meta review 文章被dr了。  
 * 春假不允许出去玩，因为学生都是employee，想出去玩的学生被打电话骂了二十分钟。  
 * 周日写周报，周一开组会，组会随机延长的周三，组会满嘴喷粪，学生讲一点技术的东西就装睡。  
 * 一点技术不懂，只会造概念，不允许学生训练，说把prompt写好足够了。  
-* 不允许喝外面合作，如果他想申请专利的论文要带合作者
+* 不允许喝外面合作，如果他想申请专利的论文要带合作者，就会把合作者名字删掉
 
 UCSC, Yuanchao Xu
 
@@ -136,26 +143,30 @@ UCSC, Yuanchao Xu
 
 UCSD，Biwei Huang
 
-* 老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好。
+* 老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）
 
 NCSU Xiaorui Liu
 
 * 组里压力非常大， proposal也让学生写，paper也不看，quit了几个高年级phd（听说过，告到系里）  
 * 学术皇帝
 
-|, Ding Zhao
+CMU Ding Zhao 
 
 * Push，脾气差  
 * 控制欲极强，水平一般
+
+CMU David Held
+
+* 会给黑推
 
 UC Merced,  Yiwei Wang
 
 * 组里intern 非常多，给不出什么指导，性格奇怪。  
 * 7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）  
 * 在美国看CCF的神人  
-* 而且其实是夫妻店（和谁？）
+* 而且其实是夫妻店（和谁？澳洲的那个，昆士兰）
 
-UCSC, CV夫妻店(谁写的请说明，不然容易误伤啊)
+UCSC, CV夫妻店
 
 * 女方学术水平无法评价，纯靠Yuille carry出教职  
 * 长期PUA组内学生，实习期间高强度打工  
@@ -167,12 +178,14 @@ Umass，Gan Chuang
 
 * 给intern写黑推导致PhD被狠狠拒  
 * 据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。  
-* 避雷避雷避雷避雷避雷避雷避雷避雷避雷
+* 避雷避雷避雷避雷避雷避雷避雷避雷避雷  
+* 手底下的phd有雷吗？听说休假了要？
 
 UIUC，Huan Zhang
 
 * 招特别多的intern，而且疯狂养鱼。  
-* 面试让你先读一堆论文，然后给他个idea才考虑招不招你
+* 面试让你先读一堆论文，然后给他个idea才考虑招不招你  
+* 给不少人写了黑推，ranking特别低那种
 
 UIUC，Jian Huang
 
@@ -207,13 +220,13 @@ UCSD, Julian McAuley
 * 老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬。  
 * 学术品味一般，感觉招生纯数paper  
 * 可以狠狠选他的课，毕竟给分挺松的总体上，但是ms找他做科研风险挺大的，如果有更好的选择去别的地方吧，别给 A6000们上压力了   
-* 组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）
+* 组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）
 
 UIC，lu cheng
 
 * 比较toxic，挺多学生转组跑路，有人评价说和PhD开组会就像训狗。
 
-UNC，Tianlong Chen
+UNC，Tianlong Chen 
 
 * 看发表量就能看出来老师很push，之前半夜给学生打电话催进度。  
 * 26 Fall 他的incoming PhD去年暑假在xhs发招生贴，友情提示他们组intern多这么早就转正谨慎考虑，疑似被他的学生怒怼最后被删评。  
@@ -221,8 +234,10 @@ UNC，Tianlong Chen
 
 UCSB，shiyu chang
 
-* 之前没tenure时，组里学生转组的不少，因为受不了老师push，而且投稿会被老师卡不准投。  
-* 但是现在听说去工业界兼职了也tenure了，可能会转型
+* 之前没tenure时，组里学生转组的不少，因为受不了老师push+骂人，而且投稿会被老师卡不准投。  
+* 但是现在听说去工业界兼职了也tenure了，可能会转型  
+* 听说喜欢招没paper的，说是好培养？（待确认）( 确认，想招的会压力面看你听不听话）  
+* 这老师资源如何？
 
 OSU Yu Su
 
@@ -235,6 +250,10 @@ Gatech Tuo Zhao
 
 * 喜欢骂人，走廊里都能听到  
 * Iclr当ac和学生联手黑掉mamba，学术道德极差
+
+Johns Hopkins University，Chaowei Xiao
+
+* 
 
 NEU Yun Raymond Fu
 
@@ -249,15 +268,57 @@ UMD Heng Huang
 有这个老师的评价吗
 
 * 积分制毕业，多人跑路，大雷  
-  * 细说积分制  
-* 看面相即可
+  * 细说积分制 （听说五Nips）  
+* 看面相即可  
+* 很会吹牛。很会 judge 人，“你这成绩单不行啊，怎么都是水课。。。“ 怀疑眼睛有问题  
+* 学生如果要找教职低于Top50不给推荐信，因为UMD是Top10
 
+NEU 夫妻店 
+
+* 水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人，idea都是a+b  
+* 组内出过一个拿过一堆顶校（网上可以查到的有yale，布朗，wisconsin madison，washU）面试的candidate然后被人在小红书上开盒，不开源code，onsite基础知识极差，一窍不通，其实是全组paper和项目堆出来的  
+* 养了10来个intern干活，给他开公司，phd也得干  
+* 开着zoom当着其他组面辱骂，有一次骂了学生半小时过激，老婆吓得直接过来站他身后  
+* 组会有过踹桌子，扔东西，直接威胁t人  
+* 和几个老师一起开公司，开到后面闹掰了，直接加到创业公司会议里面和另一个cofounder老师对骂，把免费干活的学生和国内小工都吓傻了  
+* 被合作者追着在不同微信群骂，被@骂了就退群  
+* 偷snap的diffusion checkpoint拿来当做自己创业公司成果  
+* 没有时间观念，开会迟到一俩小时
+
+USC Yan Liu
+
+UCSB Eric Xin Wang  
+开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？）
+
+UCSB Wenbo Guo  
+有评价吗
+
+NWU Manling Li 
+
+* 有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的，感觉。) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）  
+* 据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请  
+* Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）  
+* Intern 数量比我高三班级人数还多。（吓哭了）  
+* 大兵团  
+* 不让arxiv，必须先中稿 （这是什么 ego😅）
+
+UCSD zhuowen Tu  
+非常push  
+除了是saining老板其他有没有评价
+
+* 走廊骂哭过本科生（？）
+
+	  
 **CA**
 
 Mila/UdeM，Aishwarya Agrawal
 
 * 着迷于micro-management, 但taste/水平一般  
 * 三个phd/incoming phd 受不来了跑到别的老师组了
+
+UofT network方向L老师
+
+* 小红书扒皮某个招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？
 
 **HK**  
 x f  
@@ -281,7 +342,7 @@ CUHK, Yixuan yuan
 HKUST, Xiaomeng Li  
 （↑有具体的吗，印象中知乎\&xhs有过评论，貌似被删了？是不是有人quit过？）
 
-CUHK 某AI4S AP 避雷 
+CUHK 某AI4S AP 避雷 （至少给个指向吧）
 
 **SG**  
 NUS, You Yang
@@ -294,7 +355,7 @@ Tsinghua, YY
 
 Peking, 
 
-SJTU, 
+SJTU
 
 ZJU, 
 
@@ -302,6 +363,10 @@ USTC, Yan Song
 
 * 这人坑过多少学生就不用说了吧？从深圳一路坑过来。当年在深圳干的那些事情不知道还有多少人记得。  
 * 逆天，避雷避雷
+
+CSU, Xu Su
+
+* 经典npd，不顺他的意或者做的不好就会一直否定你
 
 # 红榜
 
@@ -325,7 +390,22 @@ Upenn Prof. Jacob Gardner
 * 水平很高指导也很到位，赶稿之前会帮学生写代码甚至写全文，非常hands on  
 * 尊重学生方向，有学生完全不做他感兴趣的方向，但是能帮就帮  
 * 找实习找工作都全程carry，毕业之后也能经常约到老师讨论career plan  
-* 很有钱，组里算力充足，B200
+* 很有钱，组里算力充足，学生经常40卡B200跑实验，组会出去吃fine dinin\`g  
+* 毕业时间flexible，找到工作就放人，去工业界有很多内部资源，觉得学生的internship找的不太好学不到东西还会帮助联系更好的internship
+
+UCSD Wei Wang
+
+* 尊重学生，日常也基本放养  
+* 组里算力不那么充足但做ai4sci也暂时是够用  
+* 组里phd交流也很不错，开组会得到的feedback很helpful  
+* 做ai4chem的强推
+
+UCSD Marc Niethammer
+
+* 尊重学生，feedback速度很快（很理论的一个人）  
+* Funding比较充足（nih可查）  
+* ai4med有福了  
+* 缺点：上课比较无聊容易睡着
 
 **大家可以在这个Tab补充和推荐没有red flags的PI！**
 
