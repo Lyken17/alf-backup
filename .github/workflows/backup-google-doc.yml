@@ -25,7 +25,15 @@ jobs:
           set -euo pipefail
           mkdir -p "$(dirname "$OUTPUT_FILE")"
           DOWNLOAD_URL="${EXPORT_URL:-https://docs.google.com/document/d/${DOC_ID}/export?format=md}"
-          HTTP_STATUS="$(curl -sSL -w '%{http_code}' -o "$OUTPUT_FILE" "$DOWNLOAD_URL" || true)"
+          CURL_EXIT=0
+          HTTP_STATUS="$(curl -sSL -w '%{http_code}' -o "$OUTPUT_FILE" "$DOWNLOAD_URL")" || CURL_EXIT=$?
+          if [ "$CURL_EXIT" -ne 0 ]; then
+            rm -f "$OUTPUT_FILE"
+            echo "Failed to download Google Doc as Markdown."
+            echo "curl exit code: $CURL_EXIT"
+            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
+            exit 1
+          fi
           if [ "$HTTP_STATUS" != "200" ]; then
             rm -f "$OUTPUT_FILE"
             echo "Failed to download Google Doc as Markdown."
@@ -33,7 +41,10 @@ jobs:
             echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
             exit 1
           fi
-          test -s "$OUTPUT_FILE"
+          if [ ! -s "$OUTPUT_FILE" ]; then
+            echo "Downloaded Google Doc Markdown is empty."
+            exit 1
+          fi
 
       - name: Commit and push if changed
         env:
