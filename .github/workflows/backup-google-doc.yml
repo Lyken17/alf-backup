@@ -19,11 +19,17 @@ jobs:
       - name: Download Google Doc as Markdown
         env:
           DOC_ID: 1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds
+          EXPORT_URL: ${{ secrets.GOOGLE_DOC_EXPORT_URL }}
           OUTPUT_FILE: backups/google-doc.md
         run: |
           set -euo pipefail
           mkdir -p "$(dirname "$OUTPUT_FILE")"
-          curl -fsSL "https://docs.google.com/document/d/${DOC_ID}/export?format=md" -o "$OUTPUT_FILE"
+          DOWNLOAD_URL="${EXPORT_URL:-https://docs.google.com/document/d/${DOC_ID}/export?format=md}"
+          if ! curl -fsSL "$DOWNLOAD_URL" -o "$OUTPUT_FILE"; then
+            echo "Failed to download Google Doc as Markdown."
+            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
+            exit 1
+          fi
           test -s "$OUTPUT_FILE"
 
       - name: Commit and push if changed
@@ -31,9 +37,11 @@ jobs:
           OUTPUT_FILE: backups/google-doc.md
         run: |
           set -euo pipefail
-          if git diff --quiet -- "$OUTPUT_FILE"; then
-            echo "No changes detected."
-            exit 0
+          if git ls-files --error-unmatch "$OUTPUT_FILE" >/dev/null 2>&1; then
+            if git diff --quiet -- "$OUTPUT_FILE"; then
+              echo "No changes detected."
+              exit 0
+            fi
           fi
 
           git config user.name "github-actions[bot]"

@@ -6,3 +6,4 @@ Automated backup is configured via GitHub Actions:
 - Schedule: every 30 minutes
 - Source: Google Doc `1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds`
 - Output: `backups/google-doc.md`
+- Access: document must be publicly readable, or set `GOOGLE_DOC_EXPORT_URL` repository secret
