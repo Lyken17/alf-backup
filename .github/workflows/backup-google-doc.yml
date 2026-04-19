@@ -1,0 +1,43 @@
+name: Backup Google Doc
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Google Doc as Markdown
+        env:
+          DOC_ID: 1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds
+          OUTPUT_FILE: backups/google-doc.md
+        run: |
+          set -euo pipefail
+          mkdir -p "$(dirname "$OUTPUT_FILE")"
+          curl -fsSL "https://docs.google.com/document/d/${DOC_ID}/export?format=md" -o "$OUTPUT_FILE"
+          test -s "$OUTPUT_FILE"
+
+      - name: Commit and push if changed
+        env:
+          OUTPUT_FILE: backups/google-doc.md
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- "$OUTPUT_FILE"; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_FILE"
+          git commit -m "chore: backup Google Doc markdown"
+          git push
