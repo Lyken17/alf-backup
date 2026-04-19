@@ -1,0 +1,67 @@
+name: Backup Google Doc
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download Google Doc as Markdown
+        env:
+          DOC_ID: 1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds
+          EXPORT_URL: ${{ secrets.GOOGLE_DOC_EXPORT_URL }}
+          OUTPUT_FILE: backups/google-doc.md
+        run: |
+          set -euo pipefail
+          mkdir -p "$(dirname "$OUTPUT_FILE")"
+          DOWNLOAD_URL="${EXPORT_URL:-https://docs.google.com/document/d/${DOC_ID}/export?format=md}"
+          CURL_EXIT=0
+          HTTP_STATUS="$(curl -sSL -w '%{http_code}' -o "$OUTPUT_FILE" "$DOWNLOAD_URL")" || CURL_EXIT=$?
+          if [ "$CURL_EXIT" -ne 0 ]; then
+            rm -f "$OUTPUT_FILE"
+            echo "Failed to download Google Doc as Markdown."
+            echo "curl exit code: $CURL_EXIT"
+            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
+            exit 1
+          fi
+          if [ "$HTTP_STATUS" != "200" ]; then
+            rm -f "$OUTPUT_FILE"
+            echo "Failed to download Google Doc as Markdown."
+            echo "HTTP status: ${HTTP_STATUS:-unknown}"
+            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
+            exit 1
+          fi
+          if [ ! -s "$OUTPUT_FILE" ]; then
+            echo "Downloaded Google Doc Markdown is empty."
+            exit 1
+          fi
+
+      - name: Commit and push if changed
+        env:
+          OUTPUT_FILE: backups/google-doc.md
+        run: |
+          set -euo pipefail
+          if git ls-files --error-unmatch "$OUTPUT_FILE" >/dev/null 2>&1; then
+            if git diff --quiet -- "$OUTPUT_FILE"; then
+              echo "No changes detected."
+              exit 0
+            fi
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_FILE"
+          git commit -m "chore: backup Google Doc markdown"
+          git push
