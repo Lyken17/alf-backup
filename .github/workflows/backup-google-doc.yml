@@ -21,32 +21,51 @@ jobs:
       - name: Download Google Doc as Markdown
         env:
           DOC_ID: 1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds
-          EXPORT_URL: ${{ secrets.GOOGLE_DOC_EXPORT_URL }}
           OUTPUT_FILE: backups/google-doc.md
+          BLACK_TAB_ID: t.0
+          RED_TAB_ID: t.nx4zmkxu7v5s
         run: |
           set -euo pipefail
           mkdir -p "$(dirname "$OUTPUT_FILE")"
-          DOWNLOAD_URL="${EXPORT_URL:-https://docs.google.com/document/d/${DOC_ID}/export?format=md}"
-          CURL_EXIT=0
-          HTTP_STATUS="$(curl -sSL -w '%{http_code}' -o "$OUTPUT_FILE" "$DOWNLOAD_URL")" || CURL_EXIT=$?
-          if [ "$CURL_EXIT" -ne 0 ]; then
-            rm -f "$OUTPUT_FILE"
-            echo "Failed to download Google Doc as Markdown."
-            echo "curl exit code: $CURL_EXIT"
-            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
-            exit 1
-          fi
-          if [ "$HTTP_STATUS" != "200" ]; then
-            rm -f "$OUTPUT_FILE"
-            echo "Failed to download Google Doc as Markdown."
-            echo "HTTP status: ${HTTP_STATUS:-unknown}"
-            echo "Ensure the document is publicly readable or set GOOGLE_DOC_EXPORT_URL secret."
-            exit 1
-          fi
-          if [ ! -s "$OUTPUT_FILE" ]; then
-            echo "Downloaded Google Doc Markdown is empty."
-            exit 1
-          fi
+          BASE_URL="https://docs.google.com/document/d/${DOC_ID}/export?format=md"
+          BLACK_TMP="$(mktemp)"
+          RED_TMP="$(mktemp)"
+          cleanup() {
+            rm -f "$BLACK_TMP" "$RED_TMP"
+          }
+          trap cleanup EXIT
+
+          download_tab() {
+            local tab_id="$1"
+            local target_file="$2"
+            local curl_exit=0
+            local http_status
+            http_status="$(curl -sSL -w '%{http_code}' -o "$target_file" "${BASE_URL}&tab=${tab_id}")" || curl_exit=$?
+            if [ "$curl_exit" -ne 0 ]; then
+              echo "Failed to download Google Doc tab ${tab_id}."
+              echo "curl exit code: $curl_exit"
+              exit 1
+            fi
+            if [ "$http_status" != "200" ]; then
+              echo "Failed to download Google Doc tab ${tab_id}."
+              echo "HTTP status: ${http_status:-unknown}"
+              exit 1
+            fi
+            if [ ! -s "$target_file" ]; then
+              echo "Downloaded Google Doc tab ${tab_id} is empty."
+              exit 1
+            fi
+          }
+
+          download_tab "$BLACK_TAB_ID" "$BLACK_TMP"
+          download_tab "$RED_TAB_ID" "$RED_TMP"
+
+          {
+            printf "## Tab: %s\n\n" "$BLACK_TAB_ID"
+            cat "$BLACK_TMP"
+            printf "\n\n## Tab: %s\n\n" "$RED_TAB_ID"
+            cat "$RED_TMP"
+          } > "$OUTPUT_FILE"
 
       - name: Commit and push if changed
         env:
