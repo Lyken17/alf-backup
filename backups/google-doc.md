@@ -8,7 +8,7 @@ Purpose**对学生：**This document is for private reference only. Its purpose 
 
 **PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。**
 
-**不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息，本文档只针对PI，请大家帮忙维护一些学生隐私。请大家保护学生信息，包含隐私信息的评论都需要被删除。**
+**不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息，本文档只针对PI，请大家帮忙维护一些学生隐私。请大家保护学生信息，包含隐私信息的评论都需要被删除。s**
 
 **修正已完成：**
 
@@ -46,6 +46,18 @@ Rice University / pre University of Rochester Tong (Tony) Geng
 
 
   
+UCR school of medicine Zheng Sika
+
+* 有funding 但一直让学生做TA, 问有什么能摆脱这个状况变成RA 得到回复就是你不够努力  
+* 一个rotation project 能拖4 年  
+* 学校有policy phd学生F 两次自动drop out, 换组的时候他毫不吝啬直接给你一个F, 只因为你换组  
+* 说严格吧，他会把你留在你的项目上ghost 两个月，自己去度假，说不严格吧，他回来花30 分钟看你的write up 直接能让你全部重做  
+* 一年内两个学生换组/dropout, 其中一个学生是真的persistent 到了毕业最后一个月以为能取得他的认可，他直接给fail 了  
+* Zheng Sika 敢于直接在你的annual progress review 上说我的这个学生none of their stuff makes any sense/I don't endorse it  
+* 每周要求日报，每周周报24 小时内需要根据feedback 重跑实验补数据，如果周报是周五，那么你很幸运了，你将有整整一个周末的时间全部用在周报correction, 还不快快感恩  
+* 在candidacy exam 前一周让你全部重做，并说you will fail your candidacy exam，你问“那我该怎么办” 他说“do your candidacy exam”   
+* 尝试claim 转组学生一篇毫不相关的文章，并threaten legal action without any evidence 
+
 Northwestern University Kaize Ding
 
 * 这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）  
@@ -61,8 +73,13 @@ UIUC, Bo Li
 * 一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）  
 * 和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？(what doesnt kill you make you stronger???)
 
+UChicago Junchen Jiang  
+组里氛围
+
 OSU-Lisa Hall  
 听说瓜不少
+
+Duke Neil Gong
 
 U-Chicago Ce Zhang**（存在争议，请谨慎辨别）**
 
@@ -71,7 +88,7 @@ U-Chicago Ce Zhang**（存在争议，请谨慎辨别）**
 - So where
 
 (从前不知道不予评价，但是现在合作感觉体验很好，资源充足，对学生也很关心supportive，实在不知道“toxic”到底是哪里的空穴来风，建议停止尬黑，有问题问问现在的学生自然得证)  
-(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth合作过的学长，我也知道所谓那些空穴来风，说白了确实他以前有点push上压力呗，说来说去就这一句但是其他方向确实没得说啊，这里本来就是让大家一起评价分享信息的，你在这最后来一句人家是bb真的太好笑了，甚至连背后的血汗都出来了，xiangdantg收收爹味ok？没逻辑的乱喷只会显得你越来越像小丑)
+(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth合作过的学长，我也知道所谓那些空穴来风，说白了确实他以前有点push上压力呗，说来说去就这一句但是其他方向确实没得说啊，这里本来就是让大家一起评价分享信息的，你在这最后来一句人家别bb真的太好笑了，甚至连背后的血汗都出来了，想当赛博说教男？收收爹味ok？没逻辑的乱喷只会显得你越来越像小丑)
 
 Gatech prof. Yingyan (Celine) Lin
 
@@ -86,9 +103,9 @@ Gatech prof. Yingyan (Celine) Lin
 
 Lehigh Lichao Sun**（存在争议，请谨慎辨别）**
 
-本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。**（但你们的taste是真差，能别再污染学术圈了吗）**  
+本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。**（但你们的taste是真差，能别再污染学术圈了吗）（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）**  
 \+1 chao is great. It is great to work with him  
-\+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please\! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））(所以你们聊了这么久硬是sun哥一个solid的工作都说不出来吗))并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。
+\+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please\! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））(所以你们聊了这么久硬是sun哥一个solid的工作都说不出来吗))并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。（取个名就有罪，被法律制裁了？学术炒作归炒作，跟人品什么的没啥关系，这种讨论完全脱离本Doc主体）
 
 * 【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）（谴责学校/人身攻击）（??啥出生玩意搞人生攻击）  
 * （一个经常看sun老师论文的路人） 看上面感觉sun老师和他组里的phd and intern相处其乐融融，应该没有什么pua 的事。唯一的concern 是Sun老师实在向arxiv产出太多垃圾了，污染我的LLM 训练语料，建议他们七八个人成立一个 SunXiv， 这样我方便filter。    
@@ -128,7 +145,7 @@ UMD Heng Huang
 * 认为自己比很多知名学者厉害，觉得其他教授水平不行  
 * 过去n年，组内最少5.5年毕业  
 * 背地里会离间组内学生关系，经常会直接在学生面前比较其他学生  
-* 学历歧视，diss非清北本科的学生  
+* 学历歧视，diss非清北本科的学生   
 * 吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他  
 * 切割了  
 * 海王，发了很多口头offer  
@@ -139,7 +156,7 @@ UCB Sergey Levine
 
 * BAIR abuse: [https://www.reddit.com/r/berkeley/comments/1bkeq9t/abused\_at\_bair/?rdt=34250](https://www.reddit.com/r/berkeley/comments/1bkeq9t/abused_at_bair/?rdt=34250)  
 * 强迫学生做自己不喜欢的研究方向  
-* 组里paper 超过 90% reproduce不出来(笑死，这也太真实了）
+* 组里paper 超过 90% reproduce不出来(笑死，这也太真实了）（太真实了，复现出来纯一坨）
 
 Umass，Gan Chuang
 
@@ -164,7 +181,7 @@ Umass，Gan Chuang
 * mit-ibm lab 这地方有说法的  
 * 知情人表示有更离谱的，保护受害者不说了。。。  
 * （路人看完感觉北美孙笑川啊）（那有点侮辱孙笑川了）  
-* Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作  
+* Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，幼稚如小学生）  
 * 给intern指定去向，不给写其他地方的推荐信（据说指定去向是四大，非四大不写）
 
 
@@ -214,32 +231,6 @@ UIUC Jimeng Sun
 * 部分 AI for Health paper  
 * 歧视女性
 
-
-* 
-
-USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal\!\!\!  
-今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。  
-(太逆天了，本来想在王老师组里intern，现在才知道，感谢）
-
-组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文
-
-UCB Haoran Geng 
-
-* 招了超过40个intern不负责(有40个吗，虽然我感觉有20个)  
-* 给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）  
-* 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）  
-* 告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”  
-* 满口谎言，没有一句实话  
-* paper大部分是造假的  
-* 欠intern一堆钱  
-* 猛猛pua人，拿推荐信威胁  
-* 让intern去自己startup免费打工  
-* pieter, jitendra不知道有这么多intern和startup的存在  
-* 避雷所有和此人合作过且仍保持合作的人！
-
-
-  
-
 **Johns Hopkins University，Chaowei Xiao （他单独的page总被删，这里保留一份）**  
 **请大家别再涉及学生信息了，学生是无辜的！～**  
 **我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分：这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）**
@@ -262,6 +253,43 @@ UCB Haoran Geng
 * **说实话xcw不是互联网新人了，一直这样删帖更加让人感觉做贼心虚**  
 * **他在小红书上有账号还在招生，很多人都联系了，我怕今年有不知情的学生要进他lab受苦，应该在小红书上也发个帖子爆料他**
 
+USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal\!\!\!  
+今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。  
+(太逆天了，本来想在王老师组里intern，现在才知道，感谢
+
+UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal\!\!\!  
+ 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty  
+真热闹
+
+* 招了超过40个intern不负责(有40个吗，虽然我感觉有20个)  
+* 给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）
+
+intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:[31c1279ccb38b0299449dea8b12d32fc.png](https://drive.google.com/file/d/1mwFpW81zng7ZjJqr4oRoMWiDwodr49QD/view?usp=sharing) 黑子们点进来看, 这是jitendra本人给我发的email, ccl  
+真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容
+
+* 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？**ding yufei** 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？)  
+* 告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）  
+* Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？  
+* 欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)  
+* 猛猛pua人，拿推荐信威胁  
+* 让intern去自己startup免费打工  
+* pieter, jitendra不知道有这么多intern和startup的存在  
+* 避雷所有和此人合作过且仍保持合作的人！
+
+**Xs haoran这是得罪哪个intern了 吃瓜 (你应该问没得罪哪个intern)**
+
+作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/ 还知情人，你别做梦了，清醒点傻孩子  
+   
+   
+1\. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟  
+   
+2\. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位（同，证实这一点）  
+   
+3\. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)
+
+4\. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...  
+PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？
+
 **Johns Hopkins University \- Sijia Geng**
 
 * **老板保送教职 能力堪忧 很难指导学生；**  
@@ -271,13 +299,16 @@ UCB Haoran Geng
 
 UCB Koushil Sreenath
 
-* 组里又穷又没资源  
-* 没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)  
-* 老师的水平还不如组内phd和部分master  
-* 组内一点都不inclusive (不知道从哪里感觉的..组里的人都很和谐相处...)  
-* 感觉科研的参与程度不高
+* 组里又穷又没资源 (Koushil资源ME做robotics的教授里面数一数二吧)  
+* 没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)  
+* 老师的水平还不如组内phd和部分master(你)  
+* 组内一点都不inclusive (不知道从哪里感觉的..组里的人都很和谐相处...)
 
 感觉非常好锁定写这段话的人...（hhh)
+
+UCB Haiwen F
+
+读着书开公司, 不好好合作
 
 UNC Prof. Mohit Bansal
 
@@ -288,17 +319,17 @@ UNC Prof. Mohit Bansal
 * 压力接offer，还把其他candidate的个人主页邮件全部发过来压力  
 * 2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL
 
-UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）
+UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）
 
-* 组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）  
-* 7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）  
-* 在美国看CCF的神人  
-* 而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai \- 这也是重量级）（细说，给他开个夫妻贴）  
-* 2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了  
-* ICLR投稿无数篇，榜上有名，且全是低分  
-* 在当其他老师的舔狗和被国内老师舔两个形态之间切换  
-* 传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）  
-* 至今没有PhD入学的学生？
+* 组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)  
+* 7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）  
+* 在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？）  
+* 而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai \- 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）  
+* 2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）  
+* ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）  
+* 在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）  
+* 传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生字就写的，你自己活做的怎么样心里有点数）  
+* 至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)
 
 UWashington Sumit Roy
 
@@ -307,8 +338,8 @@ UWashington Sumit Roy
 ASU Yanjie Fu
 
 * 平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗)（不懂就问，都有这种邮件留档了为什么他还能活的好好的…太炸裂了） （部分邮件截图如下）  
-* （6666）（6666）（已取餐😋😋）  
-* ![][image1]  
+* ![][image1]（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）  
+* ![][image2]  
 * 学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。（还要帮他砍树，修草坪，帮他老婆雪地救援，搬家具）（这不是国内教授的作风么）  
 * 电话催命，每天都有电话很多时候不止一个，早7到晚12（12点后7点前也会接到电话），周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了  
 * 学术水平低，但对教职病态执着，你要是说毕业不想找教职，他会把你当仇人，天天把faculty挂嘴上引以为豪，除了这个职业都是下三滥  
@@ -325,12 +356,6 @@ ASU Yanjie Fu
 * 听说家暴老婆...（好可怜的老婆）  
 * 他老婆应该是搬运来的  
 * 会威胁学生，说不听话的话就要挡学生10年
-
-USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal\!\!\!  
-今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。  
-(太逆天了，本来想在王老师组里intern，现在才知道，感谢）
-
-组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文
 
 UMass Hong Yu
 
@@ -357,7 +382,7 @@ Rochester Chengliang Xu
 
 * 把很多篇他不参与，只挂名的文章强行挂上其他人名字，解释成是funding support，要求把abstract和introduction修改了，做research要为整个组和funding的钱着想，喜欢在deadline最后几天什么也不说把自己博士导师或者外面认识的女老师挂上名  
 *  好几个funding需要学生做，新funding的proposal需要学生写，天天嘴里说学生闲，没事干  
-* 说是arpha funding support学生，结果一个学期下来一看是学校de![][image2]partment funding，在入学前就让学生在实习的时候就接项目，也不给钱
+* 说是arpha funding support学生，结果一个学期下来一看是学校department funding，在入学前就让学生在实习的时候就接项目，也不给钱
 
 
 UMich Prof. Lu Wang 
@@ -384,8 +409,11 @@ UCD Lifu Huang非常push，对学生相当差
 * 完全不懂multimodal相关的东西全靠学生，代表作其实跟他都没啥关系  
 * 特别喜欢给学生画饼，动不动就说我推荐你就能去msra就能去FAIR luke组，实际学术关系相当没啥影响力  
 * 和学生相处的时候，高位者的姿态非常严重  
-* 对intern很好  
-* taste很差，人品也不行，到底是RPI的PhD。
+* 对intern很好   
+* taste很差，人品也不行，到底是RPI的PhD。  
+* 填推荐信秒填 不限数量 会给很强的推荐  
+* 感觉总体上情绪比较稳定 做决策的时候很理智
+
 
 UCSD Hao Su**（存在争议，请谨慎辨别）**
 
@@ -663,7 +691,7 @@ UIUC，Huan Zhang **（存在争议，请谨慎辨别）**
 * Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture，还会主动向学生提供情绪价值 ，PhD,MS, Intern (undergrad & grad) 都会觉得不错。上黑榜纯冤枉。  
 * 道听途说，Huan 对学生非常 nice，个人觉得不像是毒的，上课也很不错  
 * 对组里MS转正一直模棱两可  
-* 
+* 对组里的phd咋样？
 
 GWU,  Howie Huang
 
@@ -715,7 +743,8 @@ UIUC Minjia zhang
 UIUC Yiling Lou  
 刚来就有瓜吗  
 看过微博  
-这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）
+这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）  
+守护宇宙最好的10老师！！！！
 
 UIUC Kevin Chang  
 经典黑推王，全校无人不知  
@@ -727,6 +756,8 @@ UIUC Daniel Kang
 天天因为dating app被人挂。。  
 性压抑了[http://xhslink.com/o/2KZfkRJ8GZ6](http://xhslink.com/o/2KZfkRJ8GZ6) (这位真是个重量级)  
 有朋友在他组里，一个活分给两个组搞，不过是之前的事了，还保不保真不清楚
+
+UIUC Fan Lai
 
 Yale，Rex Ying**（存在争议，请谨慎辨别）**
 
@@ -753,15 +784,13 @@ MIT SonsonSonSoongHaaaaan
 * 也是老话题 喜欢PhD intern 养鱼 物竞天择原则呗 不好的发配宁古塔苦寒之地  
 * 海王 虽然30大几了还保持单身 而且处处强调自己单身 喜欢钓一线城市白富美
 
-University of Virginia, Tianhao Wang
+University of Virginia
 
 * 这个是永远的真神，整个工学院都挺“出名”的  
 * 利用CS第一年rotation的特性，招一堆人进来，然后第一年年底之前把大部分人开掉,6留2，3留1这种  
 * 每年秋季学期结束都有这个学期招进来的人被开  
 * 到目前为止似乎已经开了9个了  
-* 在一亩三分地上装的还挺像这么一回事儿  
-* 据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也受不了了，当然这个是听说的）  
-* 跟zju kui ren和cispa的yang zhang串通审稿，因此近几年中了不少安全四大的文章，但是质量奇低
+* 在一亩三分地上装的还挺像这么一回事儿
 
 UIC，lu cheng
 
@@ -811,7 +840,8 @@ UVA Aidong Zhang
 - 组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)  
 - 这个老师似乎招了很多人  
 - 能不能细说啊（擅长pua学生）  
-- 朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？  
+- 朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？（是对毕业要求高吗？）  
+- 有无更多细说啊   
   
 
 
@@ -904,28 +934,28 @@ UCSB Wenbo Guo
 * 现在脾气已经好很多了  
 * 是不是 bo li 的舔狗，一起开公司的
 
-NWU Manling Li **（存在争议，请谨慎辨别）许多内容已被控评**
+NWU Manling Li **（存在争议，请谨慎辨别）**
 
-* 有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）  
-* 这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的，也不太看学校）  
+* 有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）  
+* 这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的）  
+* Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）大兵团（吓哭了）（绷不住了）  
+* 不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）  
+* 有关申请季的几条xhs有无评价 （本人她组intern，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）  
+* 人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern之前没有任何pub的  
+* 会给写强推的老师  
+* 讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了  
+* Manling这么nice的老师竟然会被放到黑榜 (可以看一下红榜对应的描述)   
 * 黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹  
 * 人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对年轻老师来说，在本来就繁忙的工作和项目压力下，还愿意帮人找方向、给反馈、兜底试错，这并不是理所当然的义务。更何况，对一些 commitment 本就有限的 RA 来说，导师的投入往往远大于他们自己的投入。。在这样的前提下，还把这件事简单说成“浪费 intern 时间”，我觉得既不客观，也不公允。在我看来，如果说ml有错，那错就错在太open太inclusive了。。**当好人如果反而要被喷的话那以后的环境下老师们可能会越来越不愿意给新人机会。。所以大家还是尽量抱有理解和善意去看待这些事情吧。。 **   
-* （下面所有对intern的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）  
+* （下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）  
 * Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern和advisor永远是双向选择, 首先组里所有做出project的人一定全都给了推荐信, 没有例外, 其次有些没做出来的也给了推荐信, phd和prof有利益绑定没错, 但是由这个就揣测对intern不好是不是逻辑太跨越了? 而且照这么说难道要对intern比对phd更好才行?那是不是对phd好的老师都不是好老师了?)  
-* 在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)  
-* 知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是"打白工”, 请举出具体例子??)  
-* Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）（吓哭了）（绷不住了）  
-* 大兵团  
-* 不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）  
-* 有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）  
-* 人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，大部分是之前没有任何pub的  
-* 会给写强推的老师  
-* 讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了
+* 在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)   
+* 知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是"打白工”, 请举出具体例子??)
 
 （不玩抽象了，会被当真）楼上都弱爆了我来写几条:  
-1\. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T\*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T\*你就只拿RAGEN开刀, 你是RAGEN coauthor? )  
+1\. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) （老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T\*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T\*你就只拿RAGEN开刀, 你是RAGEN coauthor? )  
 2\. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错  
-3\. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)  
+3\. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以train一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)  
 4\. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern, 知道intern需要什么skill, 能总结出training lecture? 每天给你开八个小时会你又说push?)  
 5\. 给intern写letter都不错，哪怕项目没做出来（假的）(真实可查)  
 6\. 欢迎补充 （李老师你是想让我补充你自己都不知道的细节嘛）(何忆卫)  
@@ -1042,8 +1072,8 @@ UCLA Quanquan Gu**（✨✨✨✨大的来了🎉🎉🎉🎉）**
 * [https://huaren.us/showtopic.html?topicid=3088729\&fid=398](https://huaren.us/showtopic.html?topicid=3088729&fid=398) Gu教授是这里的ML大佬，把合作者逼疯了 （不是说andrewng吗）  
 * RL theory圈人均被他碰瓷过。  
 * 论文数据造假，美化数据    
-* 给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）  
-* 不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）  
+* 给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）（不一定，我拿他的推荐信去了四大）  
+* 不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）(没什么好删的，既然有这个谣言我在这里实名澄清一下，那个quarter本来就是我们达成共识我要找段实习的，不知道怎么传成这样的）  
 * 本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 \==)
 
 UCSC Chenguang Wang 
@@ -1089,7 +1119,8 @@ Caltech Anima占坑
   似乎是不提前合作不招phd 陶瓷过得到的回复是需要先合作  
   之前在nvidia被组员举报后被nvidia开除了  
   招大几十个intern放养  
-  羡慕她可以泡到身高两米左右的白男做老公 年龄相差了大概20岁？
+  羡慕她可以泡到身高两米左右的白男做老公 年龄相差了大概20岁？  
+  感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们zu
 
 
 Caltech Yang Song  
@@ -1102,8 +1133,6 @@ UCLA Yuan Tian
 
 - 面试咕咕  
 - 垃圾一个
-
-Gatech Ye Zhao
 
 **UPenn Lingjie Liu**
 
@@ -1129,7 +1158,8 @@ Apple 那种环境出来的老师，能不好么？😂(apple什么环境)
 Princeton Mengdi Wang
 
 * 招非常多intern，夫妻店  
-* 单纯好奇 mengdi老公是谁（congle) 
+* 单纯好奇 mengdi老公是谁（congle)   
+* 合作过，相处下来我觉得王老师人非常好，只是真的很忙
 
 
   
@@ -1158,9 +1188,15 @@ Stanford Jiajun Wu
 
 Jiajun老师人本身非常nice，对学术也非常严格，非常supportive，很多同学去向都非常不错，如果对自己有信心准备return stanford的同学非常推荐到他那里暑研，他的信毫无疑问也是非常有含金量的，就算没有return 也会积极推荐到top 10 其他学校，但不可否认和jiajun 老师work 需要讲究一些技巧，认识有些同学在jiajun组里面做的一般但是到工业界或者其他老师那边可以做的非常好，anyway，jiajun老师是很好的老师，但不一定适合100%所有人。
 
+真别刻板印象，本人在 Jiajun 组做过暑研，那一年 intern 最后申请保底 top10。Jiajun 在申请上是非常非常 supportive 的，暑假结束前（如果 intern 没主动约他）会主动约 intern 聊申请。会提前很久主动发邮件问你要交哪些信。本人恰好赶上了他在 5 分钟内给我交了十几封信（我自己一个一个点开都不止 5 分钟，也不知道他怎么搞的，泪目了）。基本上 Jiajun 的 intern 只要暑研结束能 result in 一篇 iclr/icra/cvpr 申请就稳了
+
+有没MIT的瓜，求求🥺
+
+有UCB的瓜，求求🥺
+
 UC Berkeley, Sewon Min
 
-* Intern进组要先考一轮coding interview，micromanage
+* Intern进组要先考一轮coding interview，micromanage (这也算黑点？)
 
 JHU Jason Eisner （不少人抱怨？）
 
@@ -1224,8 +1260,6 @@ NYU Qi Lei
 
 - 多人反馈mean and harsh
 
-Brown Peipei Zhou
-
 UCONN Jonathan Shihao Ji
 
 - 以前从GSU过来的，组内曾经有多名学生退学，非常PUSH，非常擅长PUA，直接对第一学期来的学生说我觉得你没有进度这样子没法五年按时毕业。2025年NeurIPS投稿完后给学生放一周假，我同学因为太累了在家休息了5天，最后去纽约玩了两天，后续回来开会时，他说那你前面为什么不来实验室做实验。会对学生大吼大叫和骂人，对外人和自己的学生完全两幅面孔，部分学生躯体化并看心理医生。  
@@ -1250,8 +1284,6 @@ Mila/UdeM，Aishwarya Agrawal
 
 * 着迷于micro-management, 但taste/水平一般  
 * 三个phd/incoming phd 受不来了跑到别的老师组了
-
-Mila/UdeM, Jian Tang （他咋了）
 
 Mila/Mcgill, Pouya Bashivan  
 	发完面试ghost学生，不来面试
@@ -1289,6 +1321,8 @@ UofT Qiang Sun
 UofT Zhijing Jin  
 鱼塘里鱼太多，懂的都懂
 
+Middle East
+
 MBZUAI Lijie Hu
 
 Phd毕业不到一年，组里一名入学半年的直博生，投稿量50+自己琢磨；组里无数黑工，指导就是故事讲好，图画fancy（nanobanana），等论文出分对着分数和置信度赛博算命（xswl），指导你撤稿还是换投，看看arxiv搁浅多少，
@@ -1301,8 +1335,6 @@ HKU Yanchao Yang (占坑)x f
 
 - 帮学生改paper只用AI  
 - Bot
-
-HKU chen ran
 
 HKU Luo Ping
 
@@ -1334,8 +1366,6 @@ HKUST,  Yi R. (May) Fung
 
 ⬆️所以她本科是哪的，为啥不写？
 
-CUHK, Qi Dou
-
 CUHK, Yixuan yuan
 
 * 经常PUA学生，控制欲极强，但给不了有效建议  
@@ -1343,12 +1373,13 @@ CUHK, Yixuan yuan
 
 CityU Xiangyu Zhao
 
-- 需要帮老师写本子
+* 需要帮老师写本子  
+* 
 
 HKUST, Xiaomeng Li  
 （↑有具体的吗，印象中知乎\&xhs有过评论，貌似被删了？是不是有人quit过？）
 
-CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）
+CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）
 
 HKUST, Anyi Rao
 
@@ -1387,8 +1418,7 @@ SMU Pan Zhou
 * 科研能力很有限，广撒网招intern不给指导
 
 
-SIT Xin Lou
-
+  
 Astar, Huazhu Fu
 
 * 听说搞婚外情？有无懂的
@@ -1400,30 +1430,24 @@ Tsinghua, YY
 * 代表作   
 *  用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了
 
-Tsinghua Chong’en Bai
-
 Tsinghua Yan Wang
 
 * 每天自称自己对实习生很好，实则养鱼的不得了  
-* 组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）  
+* 组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）（回前面的, 他还喜欢玩知乎和xhs然后被人喷，名字叫压缩即智能  
 * 这人真的算thu吗我忽然请问（THU AIR的应该是）
 
 Tsinghua Shixia L 养鱼，打黑工的那种
 
-Peking, 求问北大
+SJTU SAI第一批老师没几个正常人，后续进来的老师明显科研素养和人品上好很多，建议直接去找他们学生了解
 
-FDU 
+Rebuttal:   
+第一点：李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？
 
-NJU
+第二点：有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你纯飙呢
 
-SJTU SAI第一批老师没几个正常人，后续进来的老师明显科研素养和人品上好很多，建议直接去找他们学生了解  
-SJTU Yong-lu Li
+第三点：你是不是魔怔了
 
-* 手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工  
-* 本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了  
-* 只能说pua大师，面试的时候就看得出来
-
-SJTU Su Jianbo 
+第四点：请具体说明两幅嘴脸，否则等同瞎飙，李老师貌似没有内涵阴阳同学院其他女教授哦，如果有，请列举具体情节，你自己心里这么想不代表别人也这么想
 
 SJTI Quanshi Zhang
 
@@ -1447,10 +1471,6 @@ ZJU, Kui Ren
 * 在美国水了一堆期刊文章，没几篇顶会，回国后靠着浙大的学生还有跟别的学校的reviewer串通审稿，每年给自己搞10几篇安全四大  
 * 水平差，只会搞关系，学术道德差  
 * 他举报的Xiaofeng wang (+1 还是自爆的，还发了朋友圈庆祝)
-
-HITSZ, Shuo Yang
-
-WHU， Qian Wang
 
 HUST, Shengshan Hu
 
@@ -1484,7 +1504,15 @@ USTC, Jie Wang
 Intern本科生养鱼，maybe只care少院同学吧，完全不给指导啊，也没人带你hhh  
 少院的也不在乎啊，奈何取之尽锱铢，用之如泥沙  
 苦一苦学生，骂名我来当  
-生命会找到自己的出路
+生命会找到自己的出路  
+无论你上辈子造了什么孽，来了这里哪怕一天，你都连本带利还清了  
+在这里毕业不只有欣喜还有解脱，当代塞拉斯  
+永别了牢笼  
+看《活着》像看爽文  
+![][image4]  
+妈妈 我将变成萤火虫  
+童年 · 在人间 · 我的奋斗  
+实验室的存在证明了一件事，学生们从不低贱，没有导师指导没有科研资源，学生们一样可以创造出伟大的成就
 
 USTC, Yu Zhang  
 读博期间经常被骂，看到她就感觉心情很不好，组内全是垃圾横向，只想赚钱，对学生毫无指导，高年级博士无论文延毕成常态了。  
@@ -1510,29 +1538,15 @@ Westlake, Chi Zhang
 * 据说有瓜，yiwei wang 好友  
 * [7 篇一作是本科生，这反映了该实验室怎样的培养模式？ \- 知乎](https://www.zhihu.com/question/2022448870198649984)
 
-SUSTech, Bo Tang
-
 EITech(东方理工), (插眼), 既然都有 SUSTech, ShanghaiTech, Westlake U, 不能没有我 EIT. 
 
-EITech, Xin Jin
-
 * 
-
-EITech, Wentao Zhu
 
 * 
 
 Xidian U, Huaxi Gu
 
 * 老婆怀孕期间出轨，性骚扰女学生，谋生策略就是带着全组天天跪舔领域里大佬
-
-ShanghaiTech
-
-CUHK(SZ)
-
-CASIA
-
-HDU, Jun Yu
 
 UESTC Xun LUO
 
@@ -1542,19 +1556,11 @@ UESTC Xun LUO
 
 SCUT Shuangping HUANG
 
-* ![][image4]  
+* ![][image5]  
 * 项目狂魔（项目\>杂活\>\>科研\>\>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）  
 * PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）  
-* 科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家  
-* 欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（只教做人，不教科研），学会感恩🙏
-
-BUPT
-
-# AU
-
-UQ, Yujun Cai
-
-* Yiwei Wang 夫妻店（后面是不是有？而且澳大利亚的别写到美国这个）
+* 科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家  
+* 欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），学会感恩🙏
 
 
 # EU
@@ -1565,12 +1571,14 @@ LMU, Barbara Plank
 -  需要学会拍马屁才能在组里生存得很好
 
       \-     不给学生推荐信甚至给黑推  
-      \-     指导学生经常ghost
+      \-     指导学生经常ghost  
+
 
 [image1]: backups/images/image1.png
 [image2]: backups/images/image2.png
 [image3]: backups/images/image3.png
 [image4]: backups/images/image4.png
+[image5]: backups/images/image5.png
 ## Tab: Red Flags
 
 ## **Purpose**
@@ -1595,8 +1603,10 @@ e. 组内生态：quit 率、转组率、学生私下口碑，往往比官网介
 
 **红榜List （请大家更新下面之前也在这里补充一下方便后人引用）:**
 
+* PKU Shanghang Zhang  
 * Cornell Prof. Mohamed Abdelfattah  
 * UC Merced/GDM Ming-Hsuan Yang  
+* UC Merced Yiwei Wang  
 * Upenn Prof. Jacob Gardner  
 * UCLA Yizhou Sun  
 * UCSD Zhuowen Tu  
@@ -1663,7 +1673,10 @@ e. 组内生态：quit 率、转组率、学生私下口碑，往往比官网介
 * NJIT/CUHK, Shenzhen, Mengnan Du  
 * HKU Xiaojuan Qi  
 * HKU  
-* HKUST(GZ) Yun Chen
+* HKUST(GZ) Yun Chen  
+* CUHK(Shenzhen) Tianshu Yu  
+* UQ Yujun Cai
+
 
 MSU \-\> UNC Xiaoming Liu
 
@@ -1680,6 +1693,16 @@ UC Merced/GDM Ming-Hsuan Yang
 - 组里面虽然intern多，但推荐信都很positive，但是绝对是可以凭借他的letter 拿到超出自己水平半档甚至一档学校的offer，成功推过四大，其他陆本无connection 但是paper比较优秀的同学大部分也是top 10 phd offer。对intern本身也非常好。  
 - 非常senior的老教授投稿前还是非常非常hands on，经常熬夜帮学生改paper，不会丢给phd带然后放养，会和工业界researcher 一起带学生一起weekly meeting，connection double。  
 - 非常幽默，非常随和。
+
+UC Merced Yiwei Wang
+
+- 给intern足够的卡和资源，而且每周1on1meeting，会在ddl前手把手帮你改图  
+- 组内有很多共享文档，有各种公开的资源，例如论文投稿，论文撰写，画图skill之类  
+- 对学生很supportive，只要idea可行甚至intern能access8卡  
+- 帮助包括我在内很多别的专业转cs的同学在半年内都成功发表了一作顶会  
+- 真心建议想发表独立一作，缺少leading经验的同学来intern，真的很少有老师能给intern这么多权限和资源  
+- Phd和intern之间合作很多，平时交流很多  
+- 线下见过老师几次，聊天起来真的非常舒服，像朋友一样，没有架子，微信都是秒回
 
 UIUC Lingming Zhang
 
@@ -1724,10 +1747,12 @@ Upenn Prof. Jacob Gardner
 * 很有钱，组里算力充足，学生经常40卡B200跑实验，组会出去吃fine dining  
 * 毕业时间flexible，找到工作就放人，去工业界有很多内部资源，觉得学生的internship找的不太好学不到东西还会帮助联系更好的internship
 
+UNC Prof.Mingyu Ding
+
 UCSD Julian McAuley 
 
-* 大善人，组里学生想去工业界的都是光速毕业，组里一个学生本科直博3年零一个quarter毕业的最速传说 （带我发paper的学长）。  
-* 比较放养，适合self-motivated 的学生，毕业要求不卡人。  
+* 大善人，组里学生想去工业界的都是光速毕业，组里一个学生本科直博3年零一个quarter毕业的最速传说 （本人实名制发表意见，这个光速毕业的带我发paper的学长）。  
+* 比较放养，感觉适合self-motivated 的学生，毕业要求不卡人。  
 * 自己有几百人的大课的TA给PhD作为funding兜底，不用担心没钱毕业。  
 * MS / Intern 主要是和PhD student 合作, 学生很多都是MS转的PhD, 虽然找他的人最近两年很多不是所有人都能转。
 
@@ -1753,7 +1778,8 @@ UCSD Yufei Ding
 Gatech Bo Dai
 
 * 会主动帮学生推荐实习  
-* 工业界connection很足，鼓励合作，卡多。
+* 工业界connection很足，鼓励合作，卡多。  
+* 经常在办公室大吼大叫，不知道对学生还是对老婆
 
 UChicago Ce Zhang
 
@@ -1872,7 +1898,7 @@ NEU Cheng Tan
 
 NU Manling Li
 
-我在组里做 intern 的整体体验是很好的！Intern bar 低有人觉得是好事，有人觉得不好。组里做intern不是非要有pub，很多intern其实没什么基础，还有从头带的非cs专业的intern，后来成功找到了大厂工作，老师也帮忙找工业界推荐了，以及没发过任何论文的intern在组里发第一篇论文。收phd也不是按照pub排，没有那么看背景，愿意从头培养。组内科研氛围很不错，资源也比较充足，老师和博士生会提供很多具体的idea和指导。老师本身确实比较忙，基本沟通比较多的是PhD，不太可能对每个 intern 都非常细致的指导，但在project meeting和一些关键节点上，还是能学到很多东西。另外，在申请阶段我也得到了老师的positive推荐支持，对我来说帮助很大。
+我在组里做 intern 的整体体验是很好的！Intern bar 低有人觉得是好事，有人觉得不好。组里做intern不是非要有pub，很多intern没什么基础，还有从头带的非cs专业的intern，后来成功找到了大厂工作，老师也帮忙找工业界推荐了，以及没发过任何论文的intern在组里发第一篇论文。收phd也不是按照pub排，没有那么看背景，愿意从头培养。组内科研氛围很不错，资源也比较充足，老师和博士生会提供很多具体的idea和指导。老师本身确实比较忙，基本沟通比较多的是PhD，不太可能对每个 intern 都非常细致的指导，但在project meeting和一些关键节点上，还是能学到很多东西。另外，在申请阶段我也得到了老师的positive推荐支持，对我来说帮助很大。
 
 从我自己的经历，总结一下这个组的特点，大概是：
 
@@ -1882,8 +1908,6 @@ NU Manling Li
 * 推荐信支持比较稳定：只要正常合作，哪怕project最后没做出来，也会给 positive letter，表现优秀的话还能提供一些 personal recommendation  
 * summer 期间有 research skill training，整体帮助还是挺大的  
 * 组会会邀请厉害的学者来做分享，可以学到不少
-
-黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会抽空来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹
 
 UMD Tianyi Zhou
 
@@ -1904,7 +1928,7 @@ UMD Furong Huang
 
 UCD Zhe Zhao
 
-- 感觉反应速度极快 智商情商很高 交流能力很强
+- 交流感觉反应速度极快 智商情商很高 交流能力很强
 
 UCD Muhao Chen
 
@@ -1945,6 +1969,17 @@ OSU Yu Su & Huan Sun
 BU Wei-Lun Chao
 
 * 之前在OSU，人非常好。是我合作过的教授里最负责，最有耐心，最亲历亲为的一位好教授。
+
+HKU Ping Luo
+
+* 学术能力很强，有自己的学术insight, 可以指导学生。  
+* 对学生未来想法都很支持，从不push，也没有组会。  
+* 人真的非常非常好，学生去实习或者去visiting都会无条件支持。
+
+HKU Xihui Liu
+
+* 学术insight好，会仔细指导，人很温柔  
+*  会给学生充分的资源，推荐去企业实习
 
 HKU Difan Zou
 
@@ -2001,7 +2036,7 @@ Duke Rong Ge
 
 UIUC Tong Zhang
 
-* 神，无需多言 （想问下组里intern多吗，之前看到xhs有招生帖子，给推荐信大方吗？）  
+* 神，无需多言 （想问下组里intern多吗，之前看到xhs有招生帖子，给推荐信大方吗？）(这个是他PhD的帖子，基本上intern都是他博士带，一定要调研清楚带你的博士什么人品！！！)  
 * \+1，学术 taste 好，是少见的真的懂学术和研究的教授，非常聪明，给的 idea 不仅 work 还非常 insightful
 
 HKUST(GZ) Yongqi Zhang
@@ -2093,13 +2128,13 @@ CUHK Weiyang Liu:
 
 NJIT/CUHK, Shenzhen, Mengnan Du
 
-* 如果以后我有幸能进入学术界，我希望能称为杜老师这样的人！！！  
+* 如果以后我有幸能进入学术界，我希望能成为杜老师这样的人！！！  
 * 老师非常hands-on，给idea，亲自带intern，写强推  
 * 性格温和，非常耐心，尊重学生
 
 HKUST(GZ) Yun Chen
 
-- 会给无数的idea、hands-on指导、完全不push
+- 会给无数的idea、hands-on指导、完全不push（质疑一下为什么无数idea 25年到现在只有3篇paper）
 
 HKU Xiaojuan Qi
 
@@ -2122,3 +2157,13 @@ HKU Shenghua Gao
 
 - 性格超级可爱（~~本质东北紫貂，稀有宝可梦~~）  
 - 
+
+CUHK(Shenzhen) Tianshu Yu
+
+- 非常nice+不push  
+- 只有转入，无转出和quit
+
+UQ, Yujun Cai
+
+- 非常和蔼且可爱的老师，你只要和他meeting过就知道  
+- 会在ddl前大早上起来帮i
