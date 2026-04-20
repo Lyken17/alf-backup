@@ -69,20 +69,74 @@ jobs:
             cat "$RED_FLAGS_TMP"
           } > "$OUTPUT_FILE"
 
+      - name: Extract base64 images to files
+        env:
+          OUTPUT_FILE: backups/google-doc.md
+          IMAGES_DIR: backups/images
+        run: |
+          set -euo pipefail
+          python3 - <<'PYEOF'
+          import os, re, base64, pathlib
+
+          md_path  = pathlib.Path(os.environ["OUTPUT_FILE"])
+          img_dir  = pathlib.Path(os.environ["IMAGES_DIR"])
+          img_dir.mkdir(parents=True, exist_ok=True)
+
+          text = md_path.read_text(encoding="utf-8")
+
+          # Match: [imageN]: <data:image/TYPE;base64,DATA>
+          # or without angle brackets:  [imageN]: data:image/TYPE;base64,DATA
+          pattern = re.compile(
+              r'^\[([^\]]+)\]:\s*<?data:image/([a-zA-Z0-9+]+);base64,([A-Za-z0-9+/=\n]+?)>?\s*$',
+              re.MULTILINE,
+          )
+
+          replacements = {}
+          for m in pattern.finditer(text):
+              label, img_type, b64_data = m.group(1), m.group(2), m.group(3)
+              # Strip any embedded newlines Google Docs may include in the base64 block
+              b64_clean = b64_data.replace('\n', '').replace('\r', '')
+              ext = img_type.split('+')[0].lower()   # e.g. "png", "jpeg"
+              filename = f"{label}.{ext}"
+              filepath = img_dir / filename
+              filepath.write_bytes(base64.b64decode(b64_clean))
+              rel_link = f"{img_dir}/{filename}"
+              replacements[m.group(0)] = f"[{label}]: {rel_link}"
+              print(f"Saved {filepath} ({filepath.stat().st_size} bytes)")
+
+          for old, new in replacements.items():
+              text = text.replace(old, new)
+
+          md_path.write_text(text, encoding="utf-8")
+          print(f"Updated {md_path} with {len(replacements)} image reference(s).")
+          PYEOF
+
       - name: Commit and push if changed
         env:
           OUTPUT_FILE: backups/google-doc.md
+          IMAGES_DIR: backups/images
         run: |
           set -euo pipefail
+          changed=false
           if git ls-files --error-unmatch "$OUTPUT_FILE" >/dev/null 2>&1; then
-            if git diff --quiet -- "$OUTPUT_FILE"; then
-              echo "No changes detected."
-              exit 0
+            if ! git diff --quiet -- "$OUTPUT_FILE"; then
+              changed=true
             fi
+          else
+            changed=true
+          fi
+          # Also check for new image files
+          if [ -d "$IMAGES_DIR" ] && [ -n "$(git status --porcelain "$IMAGES_DIR")" ]; then
+            changed=true
+          fi
+
+          if [ "$changed" = "false" ]; then
+            echo "No changes detected."
+            exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$OUTPUT_FILE"
+          git add "$OUTPUT_FILE" "$IMAGES_DIR"
           git commit -m "chore: backup Google Doc markdown"
           git push
