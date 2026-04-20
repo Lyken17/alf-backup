@@ -24,6 +24,8 @@ jobs:
           OUTPUT_FILE: backups/google-doc.md
           MAIN_TAB_ID: t.0
           RED_FLAGS_TAB_ID: t.nx4zmkxu7v5s
+          MAIN_TAB_NAME: Main
+          RED_FLAGS_TAB_NAME: Red Flags
         run: |
           set -euo pipefail
           mkdir -p "$(dirname "$OUTPUT_FILE")"
@@ -61,9 +63,9 @@ jobs:
           download_tab "$RED_FLAGS_TAB_ID" "$RED_FLAGS_TMP"
 
           {
-            printf "## Tab: Main\n\n"
+            printf "## Tab: %s\n\n" "$MAIN_TAB_NAME"
             cat "$MAIN_TMP"
-            printf "\n\n## Tab: Red Flags\n\n"
+            printf "\n\n## Tab: %s\n\n" "$RED_FLAGS_TAB_NAME"
             cat "$RED_FLAGS_TMP"
           } > "$OUTPUT_FILE"
 
