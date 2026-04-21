@@ -16,6 +16,8 @@ This document is for private reference only. Its purpose is to help organize obs
 
 [**https://advisoreval2026-star.github.io/AdvisorEval2026/**](https://advisoreval2026-star.github.io/AdvisorEval2026/) **（可视化+评论整理）**
 
+[**https://append.page/p/advisors**](https://append.page/p/advisors) **（新的匿名评论平台，比Google doc更丝滑，其他人无法删除你的评论）**
+
 **PS. 本文档是匿名文档，请随意补充和修改；**
 
 **某些黑榜的Prof也可以同时出现在红榜，请两个榜同时参考综合评估。**
@@ -871,6 +873,8 @@ This document is for private reference only. Its purpose is to help organize obs
 [**https://advisoreval2026-star.github.io/rankmyadvisor/**](https://advisoreval2026-star.github.io/rankmyadvisor/) **（已挂）**
 
 [**https://advisoreval2026-star.github.io/AdvisorEval2026/**](https://advisoreval2026-star.github.io/AdvisorEval2026/) **（可视化+评论整理）**
+
+[**https://append.page/p/advisors**](https://append.page/p/advisors) **（新的匿名评论平台，比Google doc更丝滑，其他人无法删除你的评论）**
 
 **PS. 本文档是匿名文档，请随意补充和修改；**
 
