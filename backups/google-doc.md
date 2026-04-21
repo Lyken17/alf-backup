@@ -6,11 +6,15 @@ This document is for private reference only. Its purpose is to help organize obs
 
 [**https://the-hidden-fish.github.io/advisor-ledger/**](https://the-hidden-fish.github.io/advisor-ledger/)
 
-**如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接：[https://github.com/the-hidden-fish/advisor-ledger](https://github.com/the-hidden-fish/advisor-ledger)**
+**如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接（也可以补充其他信息）：[https://github.com/the-hidden-fish/advisor-ledger](https://github.com/the-hidden-fish/advisor-ledger)**
 
-**GitHub有部分之前的缓存：[https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1](https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1)**
+**GitHub有部分之前的缓存：[https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1](https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1) （log记录）**
 
-[**https://advisoreval2026-star.github.io/rankmyadvisor/**](https://advisoreval2026-star.github.io/rankmyadvisor/)
+[**https://bair-volunteer.github.io/advisor-ledger/faithful/**](https://bair-volunteer.github.io/advisor-ledger/faithful/)
+
+[**https://advisoreval2026-star.github.io/rankmyadvisor/**](https://advisoreval2026-star.github.io/rankmyadvisor/) **（已挂）**
+
+[**https://advisoreval2026-star.github.io/AdvisorEval2026/**](https://advisoreval2026-star.github.io/AdvisorEval2026/) **（可视化+评论整理）**
 
 **PS. 本文档是匿名文档，请随意补充和修改；**
 
@@ -858,11 +862,15 @@ This document is for private reference only. Its purpose is to help organize obs
 
 [**https://the-hidden-fish.github.io/advisor-ledger/**](https://the-hidden-fish.github.io/advisor-ledger/)
 
-**如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接：[https://github.com/the-hidden-fish/advisor-ledger](https://github.com/the-hidden-fish/advisor-ledger)**
+**如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接（也可以补充其他信息）：[https://github.com/the-hidden-fish/advisor-ledger](https://github.com/the-hidden-fish/advisor-ledger)**
 
-**GitHub有部分之前的缓存：[https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1](https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1)**
+**GitHub有部分之前的缓存：[https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1](https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1) （log记录）**
 
-[**https://advisoreval2026-star.github.io/rankmyadvisor/**](https://advisoreval2026-star.github.io/rankmyadvisor/)
+[**https://bair-volunteer.github.io/advisor-ledger/faithful/**](https://bair-volunteer.github.io/advisor-ledger/faithful/)
+
+[**https://advisoreval2026-star.github.io/rankmyadvisor/**](https://advisoreval2026-star.github.io/rankmyadvisor/) **（已挂）**
+
+[**https://advisoreval2026-star.github.io/AdvisorEval2026/**](https://advisoreval2026-star.github.io/AdvisorEval2026/) **（可视化+评论整理）**
 
 **PS. 本文档是匿名文档，请随意补充和修改；**
 
